@@ -1,7 +1,7 @@
-## Hallo!
+## BOO!
 
-### I'm mrvillage, or simply Village :)
+### My previous readme wasn't so great, so instead I have this one :)
 
-### I love to use Python and SQL to make amazing bots for Discord and JavaScript, TypeScript, HTML, CSS, Vue, and PHP (phew! Long list!) for web development.
+### Check out Rift at https://rift.mrvillage.dev
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=radical)
