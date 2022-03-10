@@ -1,6 +1,6 @@
 ## BOO!
 
-### My previous readme wasn't so great, so instead I have this one :)
+### I need something funny to put here...any ideas?
 
 ### Check out Rift at https://rift.mrvillage.dev
 
