@@ -10,6 +10,7 @@
 - [sero](https://github.com/mrvillage/sero) - Library for managing shared locks in Rust
 - [casus](https://github.com/mrvillage/casus) - A handful of event-based async primitives for Rust
 - [aris](https://github.com/mrvillage/aris) - A lightweight messaging protocol and generic reference implementation in Rust
+- [macros](https://github.com/mrvillage/macros) - A lightweight library for parsing and writing Rust macros
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=radical)
