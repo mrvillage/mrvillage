@@ -11,6 +11,8 @@
 - [casus](https://github.com/mrvillage/casus) - A handful of event-based async primitives for Rust
 - [aris](https://github.com/mrvillage/aris) - A lightweight messaging protocol and generic reference implementation in Rust
 - [macros](https://github.com/mrvillage/macros) - A lightweight library for parsing and writing Rust macros
+- [extractors](https://github.com/mrvillage/extractors) - A lightweight library for extracting an arbitrary number of function parameters from a provider and calling a function
+- [type-store](https://github.com/mrvillage/type-store) - A lightweight type map implementation
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=radical)
