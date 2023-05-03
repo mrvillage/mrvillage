@@ -15,4 +15,4 @@
 - [type-store](https://github.com/mrvillage/type-store) - A lightweight type map implementation
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=radical&exclude_repo=tabler-php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=radical&exclude_repo=tabler-php,pusher-http-rust,framework,cargo-release,Fantasy-Map-Generator,tokio-tungstenite,discord.py2,enhanced-discord.py,cel-rust,postgres,supabase,gotrue,mantine,github-action-ssh-docker-compose,jishaku,compoships,stockbot)
