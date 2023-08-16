@@ -13,6 +13,9 @@
 - [macros](https://github.com/mrvillage/macros) - A lightweight library for parsing and writing Rust macros
 - [extractors](https://github.com/mrvillage/extractors) - A lightweight library for extracting an arbitrary number of function parameters from a provider and calling a function
 - [type-store](https://github.com/mrvillage/type-store) - A lightweight type map implementation
+- [leptos-tabler-icons](https://github.com/mrvillage/leptos-tabler-icons) - Tabler Icons for Leptos
+- [mrvillage-ui](https://github.com/mrvillage/mrvillage-ui) - My personal UI library for Leptos
+- [sanctum](https://github.com/mrvillage/sanctum) - A basic authentication framework with generic backend support
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=github_dark_dimmed&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=github_dark_dimmed&exclude_repo=tabler-php,pusher-http-rust,framework,cargo-release,Fantasy-Map-Generator,tokio-tungstenite,discord.py2,enhanced-discord.py,cel-rust,postgres,supabase,gotrue,mantine,github-action-ssh-docker-compose,jishaku,compoships,stockbot&layout=compact&langs_count=10)
