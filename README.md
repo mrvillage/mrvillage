@@ -1,7 +1,10 @@
 ## BOO!
 
-### Check out some of the libraries I've written!
+### Check out some of the stuff I've written!
 
+- [rift](https://github.com/mrvillage/rift) - A large bot for automating various aspects of the game Politics and War
+- [mrvillage-cli](https://github.com/mrvillage/mrvillage-cli) - My own personal CLI tool for templates and some common actions
+- [mrvillage.dev](https://github.com/mrvillage/mrvillage.dev) - My own personal website
 - [pnwkit-py](https://github.com/mrvillage/pnwkit-py) - Python library for interacting with the Politics and War API
 - [pnwkit](https://github.com/mrvillage/pnwkit) - Set of libraries based around a core Rust library for interacting with the Politics and War API
 - [quarrel](https://github.com/mrvillage/quarrel) - Python library for creating Discord bots
@@ -16,6 +19,12 @@
 - [leptos-tabler-icons](https://github.com/mrvillage/leptos-tabler-icons) - Tabler Icons for Leptos
 - [mrvillage-ui](https://github.com/mrvillage/mrvillage-ui) - My personal UI library for Leptos
 - [sanctum](https://github.com/mrvillage/sanctum) - A basic authentication framework with generic backend support
+
+### Other projects/achievements/positions/just an overflow of other cool/important things that don't fit above
+
+- Software Developer and former Development Manager (stepped down to focus on school) for [Politics & War](https://politicsandwar.com)
+- Added Static Site Generation to [leptos](https://github.com/leptos-rs/leptos)
+- Freelance website designer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=github_dark_dimmed&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=github_dark_dimmed&exclude_repo=tabler-php,pusher-http-rust,framework,cargo-release,Fantasy-Map-Generator,tokio-tungstenite,discord.py2,enhanced-discord.py,cel-rust,postgres,supabase,gotrue,mantine,github-action-ssh-docker-compose,jishaku,compoships,stockbot&layout=compact&langs_count=10)
