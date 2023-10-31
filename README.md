@@ -25,6 +25,7 @@
 - Software Developer and former Development Manager (stepped down to focus on school) for [Politics & War](https://politicsandwar.com)
 - Added Static Site Generation to [leptos](https://github.com/leptos-rs/leptos)
 - Freelance website designer
+- Principle Software Developer for Canadian Black Belt Academy developing the new staff and student portal
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mrvillage&count_private=true&theme=github_dark_dimmed&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvillage&theme=github_dark_dimmed&exclude_repo=tabler-php,pusher-http-rust,framework,cargo-release,Fantasy-Map-Generator,tokio-tungstenite,discord.py2,enhanced-discord.py,cel-rust,postgres,supabase,gotrue,mantine,github-action-ssh-docker-compose,jishaku,compoships,stockbot&layout=compact&langs_count=10)
