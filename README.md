@@ -23,6 +23,6 @@
 
 ### Other projects/achievements/positions/just an overflow of other cool/important things that don't fit above
 
-- Software Developer and former Development Manager (stepped down to focus on school) for [Politics & War](https://politicsandwar.com)
+- Software Developer for [Politics & War](https://politicsandwar.com)
 - Added Static Site Generation to [leptos](https://github.com/leptos-rs/leptos)
 - Freelance website designer
