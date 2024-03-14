@@ -1,4 +1,4 @@
-## BOO!
+## Hey!
 
 ### Check out some of the stuff I've written!
 
@@ -21,7 +21,7 @@
 - [mrvillage-ui](https://github.com/mrvillage/mrvillage-ui) - My personal UI library for Leptos
 - [sanctum](https://github.com/mrvillage/sanctum) - A basic authentication framework with generic backend support
 
-### Other projects/achievements/positions/just an overflow of other cool/important things that don't fit above
+### Couple other things!
 
 - Software Developer for [Politics & War](https://politicsandwar.com)
 - Freelance website designer
