@@ -21,6 +21,8 @@
 - [sanctum](https://github.com/mrvillage/sanctum) - A basic authentication framework with generic backend support
 - [bitstring](https://github.com/v19-io/bitstring) - A library for performing basic operations on bitstrings
 - [base32](https://github.com/v19-io/base32) - A library for efficient base32 encoding and decoding
+- [hotp](https://github.com/v19-io/hotp) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
+- [totp](https://github.com/v19-io/totp) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
 
 ### Couple other things!
 
