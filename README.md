@@ -24,6 +24,7 @@
 - [hotp](https://github.com/v19-io/hotp) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
 - [totp](https://github.com/v19-io/totp) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
 - [oauth](https://github.com/v19-io/oauth) - An implementation of OAuth 2.0 from RFCs 6749 and 7009
+- [dfa-regex](https://github.com/mrvillage/dfa-regex) - Create DFAs corresponding to regular experessions for matching strings
 
 ### Couple other things!
 
