@@ -3,6 +3,7 @@
 ### Check out some of the stuff I've written!
 
 - [teamcbba](https://teamcbba.v19.io) - A platform for my karate school to manage classes, memberships, leads, and everything else
+- [dfa-regex](https://github.com/mrvillage/dfa-regex) - Create DFAs corresponding to regular experessions for matching strings
 - [rift](https://github.com/mrvillage/rift) - A large bot for automating various aspects of the game Politics and War
 - [mrvillage-cli](https://github.com/mrvillage/mrvillage-cli) - My own personal CLI tool for templates and some common actions
 - [mrvillage.dev](https://github.com/mrvillage/mrvillage.dev) - My own personal website
@@ -24,7 +25,6 @@
 - [hotp](https://github.com/v19-io/hotp) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
 - [totp](https://github.com/v19-io/totp) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
 - [oauth](https://github.com/v19-io/oauth) - An implementation of OAuth 2.0 from RFCs 6749 and 7009
-- [dfa-regex](https://github.com/mrvillage/dfa-regex) - Create DFAs corresponding to regular experessions for matching strings
 
 ### Couple other things!
 
