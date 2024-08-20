@@ -21,11 +21,11 @@
 - [type-store](https://github.com/mrvillage/type-store) - A lightweight type map implementation
 - [leptos-tabler-icons](https://github.com/mrvillage/leptos-tabler-icons) - Tabler Icons for Leptos
 - [sanctum](https://github.com/mrvillage/sanctum) - A basic authentication framework with generic backend support
-- [bitstring](https://github.com/v19-io/bitstring) - A library for performing basic operations on bitstrings
-- [base32](https://github.com/v19-io/base32) - A library for efficient base32 encoding and decoding
-- [hotp](https://github.com/v19-io/hotp) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
-- [totp](https://github.com/v19-io/totp) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
-- [oauth](https://github.com/v19-io/oauth) - An implementation of OAuth 2.0 from RFCs 6749 and 7009
+- [bitstring](https://github.com/v19-io/bitstring-js) - A library for performing basic operations on bitstrings
+- [base32](https://github.com/v19-io/base32-js) - A library for efficient base32 encoding and decoding
+- [hotp](https://github.com/v19-io/hotp-js) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
+- [totp](https://github.com/v19-io/totp-js) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
+- [oauth](https://github.com/v19-io/oauth-js) - An implementation of OAuth 2.0 from RFCs 6749 and 7009
 
 ### Couple other things!
 
