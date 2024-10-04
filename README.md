@@ -29,5 +29,5 @@
 
 ### Couple other things!
 
-- Software Developer for [Politics & War](https://politicsandwar.com)
+- Former Software Developer and Development Manager for [Politics & War](https://politicsandwar.com)
 - Freelance website designer
