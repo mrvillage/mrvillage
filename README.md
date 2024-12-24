@@ -2,8 +2,8 @@
 
 ### Check out some of the stuff I've written!
 
-- [lmutils](https://github.com/GMELab/lmutils.r) - An extensive library of utilities for working with matrices and linear models.
-- [teamcbba](https://teamcbba.v19.io) - A platform for my karate school to manage classes, memberships, leads, and everything else
+- [lmutils](https://github.com/GMELab/lmutils.r) - An extensive library of utilities for working with matrices and linear models
+- [Kanri Memberships](https://kanrimemberships.com) - A membership management platform (memberships, ranks, billing, calendar, shifts, etc) designed for martial arts schools, yoga studios, and more
 - [dfa-regex](https://github.com/mrvillage/dfa-regex) - Create DFAs corresponding to regular experessions for matching strings
 - [rift](https://github.com/mrvillage/rift) - A large bot for automating various aspects of the game Politics and War
 - [mrvillage-cli](https://github.com/mrvillage/mrvillage-cli) - My own personal CLI tool for templates and some common actions
