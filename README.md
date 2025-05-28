@@ -26,6 +26,8 @@
 - [hotp](https://github.com/v19-io/hotp-js) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
 - [totp](https://github.com/v19-io/totp-js) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
 - [oauth](https://github.com/v19-io/oauth-js) - An implementation of OAuth 2.0 from RFCs 6749 and 7009
+- [ieu](https://github.com/mrvillage/ieu) - A lightweight threadpool designed to minimize overhead for large batches of intensive tasks.
+- [puid](https://github.com/mrvillage/puid) - A new ID format Prefixed Universally Unique Identifiers (PUIDs).
 
 ### Couple other things!
 
