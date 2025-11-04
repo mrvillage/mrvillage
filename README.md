@@ -1,10 +1,12 @@
 ## Hey!
 
-### Check out some of the stuff I've written!
+### Check out some of the stuff I've made!
 
 - [lmutils](https://github.com/GMELab/lmutils.r) - An extensive library of utilities for working with matrices and linear models
 - [Kanri Memberships](https://kanrimemberships.com) - A membership management platform (memberships, ranks, billing, calendar, shifts, etc) designed for martial arts schools, yoga studios, and more
 - [dfa-regex](https://github.com/mrvillage/dfa-regex) - Create DFAs corresponding to regular experessions for matching strings
+- [ieu](https://github.com/mrvillage/ieu) - A lightweight threadpool designed to minimize overhead for large batches of intensive tasks.
+- [bay-lang](https://github.com/mrvillage/bay-lang) - A small imperative language with ownership semantics and syntax inspired by Rust.
 - [rift](https://github.com/mrvillage/rift) - A large bot (Verified) for automating various aspects of the game Politics and War
 - [mrvillage-cli](https://github.com/mrvillage/mrvillage-cli) - My own personal CLI tool for templates and some common actions
 - [mrvillage.dev](https://github.com/mrvillage/mrvillage.dev) - My own personal website
@@ -26,7 +28,6 @@
 - [hotp](https://github.com/v19-io/hotp-js) - An implementation of the HMAC-Based One-Time Password Algorithm (HOTP) of RFC 4226
 - [totp](https://github.com/v19-io/totp-js) - An implementation of the Time-Based One-Time Password Algorithm (TOTP) of RFC 6238
 - [oauth](https://github.com/v19-io/oauth-js) - An implementation of OAuth 2.0 from RFCs 6749 and 7009
-- [ieu](https://github.com/mrvillage/ieu) - A lightweight threadpool designed to minimize overhead for large batches of intensive tasks.
 - [puid](https://github.com/mrvillage/puid) - A new ID format Prefixed Universally Unique Identifiers (PUIDs).
 
 ### Couple other things!
